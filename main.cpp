@@ -10,7 +10,7 @@
 
 int main(int argc, char* argv[]) {
     // Domyślne parametry algorytmu
-    int data_size = 1000000; // Rozmiar danych wejściowych (liczba elementów)
+    int data_size = 100000; // Rozmiar danych wejściowych (liczba elementów)
     int cpu_percent = 50;    // Procent dostępnych zasobów CPU do wykorzystania
     int seed = 42;           // Ziarno generatora liczb losowych
 
